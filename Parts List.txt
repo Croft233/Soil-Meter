@@ -1,0 +1,30 @@
+MCU: Raspberry Pi Pico 
+
+MCU for Debug: Raspberry Pi Pico
+
+LCD: LCD 2004 module
+Specifications: MC42005A6W-BNMLW-V2 
+
+9V Battery
+
+Battery box
+
+Breadboard
+
+Jumper wires
+
+Enclosure (top and bottom together)
+
+Pin headers
+
+Power switch
+
+Buttons
+
+Protective tape
+
+Spare parts
+
+Connector
+
+Rubber plug
